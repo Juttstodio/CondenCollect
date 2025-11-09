@@ -21,34 +21,7 @@ CondenCollect is a Python-based web server that hosts phishing templates to simu
 
 ## Screenshot
 
-Here is a preview of the terminal output when a new visitor is detected:
-
-```
---- Client 1 | Step 1: Visitor Details ---
-
-╔══════════════════════════════════╗
-║        Device Information        ║
-╚══════════════════════════════════╝
-├─ Platform   : Win32
-├─ CPU Cores  : 8
-├─ RAM        : 8 GB
-├─ GPU        : ANGLE (Intel, Intel(R) UHD Graphics...)
-├─ Resolution : 1536x864
-├─ Battery    : 83%
-└─ Browser    : Mozilla/5.0 (Windows NT 10.0; Win64; x64)...
-
-╔══════════════════════════════════╗
-║         Network Details          ║
-╚══════════════════════════════════╝
-├─ Public IP  : 203.0.113.1
-├─ Continent  : Asia
-├─ Country    : Malaysia
-├─ Region     : Selangor
-├─ City       : Petaling Jaya
-├─ Org        : Binariang Berhad
-└─ ISP        : Maxis Mobile
-----------------------------------------------------
-```
+A preview of the terminal output when a new visitor is detected. The tool provides detailed device and network information in a clean, formatted table.
 
 ## Installation
 
