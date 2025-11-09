@@ -57,10 +57,7 @@ A preview of the terminal output when a new visitor is detected. The tool provid
 
 6.  If the target enters their credentials, they will also be displayed in the terminal and appended to the same client file.
 
-
-│
-└── Data/              # Automatically created to store log files for each client.
-```
+## Project Structure
 
 ## Disclaimer
 
@@ -70,4 +67,3 @@ This tool is intended for **educational and security awareness purposes only**. 
 
 **Developed by Jutt Studio (JS)**
 *Email: js434@proton.me*
-
