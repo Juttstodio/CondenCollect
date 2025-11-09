@@ -57,22 +57,7 @@ A preview of the terminal output when a new visitor is detected. The tool provid
 
 6.  If the target enters their credentials, they will also be displayed in the terminal and appended to the same client file.
 
-## Project Structure
 
-```
-CondenCollect/
-│
-├── server.py          # The main Flask web server and application logic.
-├── requirements.txt   # Python dependencies.
-├── README.md          # This file.
-│
-├── templates/         # Contains the HTML files for the phishing pages.
-│   └── tiktok/
-│       └── tik.html
-│
-├── static/            # Contains static assets like JS, CSS, and images.
-│   ├── device_info.js # Gathers visitor information.
-│   └── tik.js         # Main JS for the TikTok template.
 │
 └── Data/              # Automatically created to store log files for each client.
 ```
@@ -85,3 +70,4 @@ This tool is intended for **educational and security awareness purposes only**. 
 
 **Developed by Jutt Studio (JS)**
 *Email: js434@proton.me*
+
