@@ -44,7 +44,7 @@ A preview of the terminal output when a new visitor is detected. The tool provid
 
 1.  **Run the server:**
     ```bash
-    python server.py
+    python app.py
     ```
 
 2.  The tool will start and display a banner, followed by a menu.
@@ -60,6 +60,8 @@ A preview of the terminal output when a new visitor is detected. The tool provid
 ## Project Structure
 
 ## Disclaimer
+
+This software is distributed under the Jutt Studio Attribution License (JSAL) 1.0. See the [LICENSE](LICENSE) file for full details.
 
 This tool is intended for **educational and security awareness purposes only**. The developer, Jutt Studio, is not responsible for any misuse or damage caused by this program. Using this tool for any malicious or illegal activity is strictly prohibited. **You are solely responsible for your actions.**
 
